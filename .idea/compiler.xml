@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="lesson3" />
         <module name="lesson3 (1)" />
         <module name="lesson3 (2)" />
         <module name="lesson3 (3)" />
@@ -29,12 +30,13 @@
         <module name="lesson4" />
         <module name="spring-framework" />
         <module name="task0301" />
+        <module name="task0302" />
         <module name="task0401" />
         <module name="task0402" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="lesson3" target="1.6" />
+      <module name="lesson3" target="1.5" />
       <module name="lesson3 (1)" target="1.6" />
       <module name="lesson3 (2)" target="1.5" />
       <module name="lesson3 (3)" target="1.6" />

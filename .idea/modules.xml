@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/book-samples/lesson3/lesson3/task02.iml" filepath="$PROJECT_DIR$/book-samples/lesson3/lesson3/task02.iml" />
       <module fileurl="file://$PROJECT_DIR$/book-samples/lesson3/task01/task0301.iml" filepath="$PROJECT_DIR$/book-samples/lesson3/task01/task0301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-samples/lesson3/task02/task0302.iml" filepath="$PROJECT_DIR$/book-samples/lesson3/task02/task0302.iml" />
       <module fileurl="file://$PROJECT_DIR$/book-samples/lesson4/task01/task0401.iml" filepath="$PROJECT_DIR$/book-samples/lesson4/task01/task0401.iml" />
       <module fileurl="file://$PROJECT_DIR$/book-samples/lesson4/task02/task0402.iml" filepath="$PROJECT_DIR$/book-samples/lesson4/task02/task0402.iml" />
     </modules>
