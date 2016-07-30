@@ -29,7 +29,6 @@
         <module name="lesson4" />
         <module name="spring-framework" />
         <module name="task0301" />
-        <module name="task0302" />
         <module name="task0401" />
         <module name="task0402" />
       </profile>
