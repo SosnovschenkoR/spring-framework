@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e3750f-0843-47cc-a6a7-052e3861f6e0" name="Default" comment="merged modules">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book-samples/lesson3/task01/task0301.iml" afterPath="$PROJECT_DIR$/book-samples/lesson3/task01/task0301.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book-samples/lesson4/task01/task0401.iml" afterPath="$PROJECT_DIR$/book-samples/lesson4/task01/task0401.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book-samples/lesson4/task02/task0402.iml" afterPath="$PROJECT_DIR$/book-samples/lesson4/task02/task0402.iml" />
     </list>
     <ignored path="spring-framework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,14 +101,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scratches" />
       <pane id="Scope">
